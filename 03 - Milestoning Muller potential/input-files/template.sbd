@@ -1,0 +1,6 @@
+${inputname}
+12.5
+${time_step_length}
+${steps_per_chunk}
+${random_seed}
+${outputname}
